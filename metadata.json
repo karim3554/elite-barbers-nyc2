@@ -1,0 +1,7 @@
+{
+  "name": "Elite Barbers NYC - Premium Grooming",
+  "description": "A high-end, high-converting landing page for Elite Barbers NYC, featuring a premium New York aesthetic, integrated booking, and a style consultation AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
